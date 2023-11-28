@@ -76,7 +76,7 @@ void layar() {
   display.print(" cm");
 
   display.setCursor(0,10);
-  display.print("luas: ");
+  display.print("tes: ");
   display.print(distance,1);
   display.print(" cm");
 
